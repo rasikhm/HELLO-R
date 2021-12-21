@@ -4,4 +4,4 @@ print("am i wrinting R")
 name ="rasikh"
 version ="RStudio - in writing"
 print("Thase lines has been written")
-
+print("R")
